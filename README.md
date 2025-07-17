@@ -39,7 +39,7 @@ python main.py
 
 ### 📌 Author
 
-**Ifunanya Blessing**
+**Ifunanya Osondu**
 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com) | Climate & GeoAI Researcher
 
 
